@@ -1,0 +1,65 @@
+[{
+    "id": 21,
+    "questionText": "Minkä vuosikurssin opiskelija olet?",
+    "type": {
+        "id": 7,
+        "type": "monivalinta"
+    },
+    "options": " 1.| 2.| 3.| 4. | 5.| muu"
+}, {
+    "id": 22,
+    "questionText": "Sukupuoli?",
+    "type": {
+        "id": 7,
+        "type": "monivalinta"
+    },
+    "options": " Nainen| Mies| Muu| En halua kertoa"
+}, {
+    "id": 23,
+    "questionText": "Käytätkö Zonen palveluita?",
+    "type": {
+        "id": 7,
+        "type": "monivalinta"
+    },
+    "options": "Kyllä|En|Olen käyttänyt, mutta en käytä enää"
+}, {
+    "id": 24,
+    "questionText": "Mitä mieltä olet Zonen tällä hetkellä tarjoamista liikuntapalveluista?",
+    "type": {
+        "id": 6,
+        "type": "teksti"
+    },
+    "options": ""
+}, {
+    "id": 25,
+    "questionText": "Miten kehittäisit Zonen palveluita?",
+    "type": {
+        "id": 6,
+        "type": "teksti"
+    },
+    "options": ""
+}, {
+    "id": 26,
+    "questionText": "Mistä liikuntalajeista olisit kiinnostunut?",
+    "type": {
+        "id": 6,
+        "type": "teksti"
+    },
+    "options": ""
+}, {
+    "id": 28,
+    "questionText": "Millä kampuksella treenaisit mieluiten?",
+    "type": {
+        "id": 6,
+        "type": "teksti"
+    },
+    "options": ""
+}, {
+    "id": 27,
+    "questionText": "Minkälaiset liikuntapalveluiden aukioloajat palvelisi sinua parhaiten?",
+    "type": {
+        "id": 7,
+        "type": "monivalinta"
+    },
+    "options": "Aamu|Päivä|Ilta|Yö"
+}]
